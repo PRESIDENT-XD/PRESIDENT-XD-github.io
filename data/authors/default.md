@@ -43,6 +43,8 @@ A Cyber Security under graduate student who hack and secure digital assists. A p
 ## Achievements
 
 - **5th position** in [Bandits CTF](https://ctftime.org/team/270954/) organized by Bandits, online (2023)
+- **1st Runner-up** in [Mehran Chess Competition](https://www.facebook.com/M.U.H.S.P.S.J/&ved=2ahUKEwiwqLe1-PSGAxW68wIHHTi5A34QFnoECBcQAQ&usg=AOvVaw2aP_M6BWUDDX6Non2MyOxD) organized by MUHSPS, Jamshoro, onsite (2018)
+- **2rd position** in [Mehran Computation Competition](https://www.facebook.com/M.U.H.S.P.S.J/&ved=2ahUKEwiwqLe1-PSGAxW68wIHHTi5A34QFnoECBcQAQ&usg=AOvVaw2aP_M6BWUDDX6Non2MyOxD) organized by MUHSPS, Jamshoro, onsite (2019)
 
 
 
