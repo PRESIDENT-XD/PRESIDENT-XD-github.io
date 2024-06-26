@@ -54,7 +54,6 @@ A Cyber Security under graduate student who hack and secure digital assists. A p
 ## Additional Experiences
 
 - **Core Member** at [Air University Cyber Security CTF Society](https://aucss.live/) (2023 - Present) - I am Core member of Air University CTF society making chalenges of Cryptography.
-| 
 ## Reach out to me
 
 - Email: `mohsin-mukhtiar@protonmail.com`
