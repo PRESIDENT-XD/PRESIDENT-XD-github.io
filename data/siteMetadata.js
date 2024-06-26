@@ -2,10 +2,10 @@ const siteMetadata = {
   title: 'PRESIDENT-XD',
   author: 'Mohsin Mukhtiar Lashari',
   headerTitle: 'PRESIDENT-XD',
-  description: 'All my thoughts/ideas in one place',
+  description: 'will find something new here',
   language: 'en-us',
   theme: 'system', // system, dark or light
-  siteUrl: 'https://president-xd.vercel.app',
+  siteUrl: 'https://president-xd-vercel.app',
   siteRepo: 'https://github.com/president-xd/president-xd.github.io',
   siteLogo: '/static/images/logo.png',
   image: '/static/images/cat1.png',
