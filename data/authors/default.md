@@ -20,7 +20,7 @@ A Cyber Security under graduate student who hack and secure digital assists. A p
 
 ## Experience
 
-- **Network Security Analyst** at [NCCS](https://www.nccs.pk/) (June 2024 - Present) [Hybrid]
+- **Network Security Researcher and Analyst** at [NCCS](https://www.nccs.pk/) (June 2024 - Present) [Hybrid]
 
 
 ## Education
